@@ -12,6 +12,14 @@ Ngày kết thúc: 13/10/2025
 8. Làm bài kiểm tra Git Final Exam.
 9. Review code cùng bạn học.
 10. Tổng kết lại tiến bộ của bản thân.
+<<<<<<< Updated upstream
 11. Dành 1 giờ mỗi ngày để ôn lại kiến thức.
 12. Học thêm về Git stash và reset.
 13. Viết báo cáo ngắn về quá trình học.
+=======
+11. Chuẩn bị cho bài kiểm tra cuối kỳ.
+12. Hoàn thiện dự án nhóm đúng hạn.
+
+
+
+>>>>>>> Stashed changes
