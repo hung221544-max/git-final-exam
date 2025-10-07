@@ -1,5 +1,7 @@
 Giới thiệu cá nhân:
 Hello, this is Trương Thái Hưng.
+Xin chào, tôi là Trương Thái Hưng.
+Conflict resolved on 07/10/2025
 Tôi là sinh viên CNTT.
 Tôi yêu thích công nghệ và lập trình.
 Tôi mong muốn phát triển kỹ năng Git và teamwork.
