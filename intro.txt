@@ -1,5 +1,5 @@
 Giới thiệu cá nhân:
-Tôi tên là Trương Thái Hưng.
+Hello, this is Trương Thái Hưng.
 Tôi là sinh viên CNTT.
 Tôi yêu thích công nghệ và lập trình.
 Tôi mong muốn phát triển kỹ năng Git và teamwork.
