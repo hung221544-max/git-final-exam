@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý tiến độ học tập
+1. Theo dõi số giờ học mỗi ngày.
+2. Lưu kết quả bài tập đã hoàn thành.
+3. Gợi ý bài học tiếp theo dựa trên lịch sử học.
+4. Tự động tạo báo cáo tiến độ hàng tuần.
+5. Hỗ trợ đồng bộ dữ liệu qua GitHub.
