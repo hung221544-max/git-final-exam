@@ -1,5 +1,3 @@
 - Git giúp tôi hiểu rõ cách quản lý mã nguồn
 - Dễ dàng quay lại các phiên bản cũ
 - Rất hữu ích khi làm việc nhóm
-- Tôi cần luyện tập thêm các lệnh Git nâng cao
-- GitHub giúp quản lý project dễ dàng hơn
